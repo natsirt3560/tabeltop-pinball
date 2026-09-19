@@ -1,15 +1,17 @@
 # tabeltop-pinball
-A smal tabeltop version of pinball made from scratch using lasercutting and 3d printing.
+**A smal tabeltop version of pinball made from scratch using lasercutting and 3d printing.**
+this is a project I am actively working on. The README and files wil be updated as things are finished. 
 
 ## features
   - 2 flippers
-  - 2 bonus options
   - 2 slingshots
+  - 3 poppers
+  - 4 targets
+  - 2 extra bonus points options
   - lights
   - sound
-  - 4 targets
-  - scoers for more player's
-  - hook for table + rubber feet
+  - multiplayer
+  - 2 game modes
 ## bonusses
   - hit all 4 targets
   - get the ball in the hole next to the flipper.
@@ -53,7 +55,7 @@ A smal tabeltop version of pinball made from scratch using lasercutting and 3d p
                           │
     Arduino GND ──────────┘
                           
-    Gate
+    Gate  
      │
     10 kΩ
      │
