@@ -5,7 +5,7 @@ this is a project I am actively working on. The README and files wil be updated 
 ## features
   - 2 flippers
   - 2 slingshots
-  - 3 poppers
+  - 3 bumbers
   - 4 targets
   - 2 extra bonus points options
   - lights
